@@ -1,13 +1,7 @@
 #include <iostream>
+#include "swap.h"
 using namespace std;
 
-void swap(int &a, int &b)
-{
-    int temp;
-    temp = a;
-    a = b;
-    b =temp;
-}
 
 int main(int arg,char **argv)
 {
