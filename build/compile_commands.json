@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/Gitee/Git_Cmake_Project/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\my_cmake_swap.dir\\main.cpp.obj -c E:\\Gitee\\Git_Cmake_Project\\main.cpp",
+  "file": "E:/Gitee/Git_Cmake_Project/main.cpp"
+},
+{
+  "directory": "E:/Gitee/Git_Cmake_Project/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\my_cmake_swap.dir\\swap.cpp.obj -c E:\\Gitee\\Git_Cmake_Project\\swap.cpp",
+  "file": "E:/Gitee/Git_Cmake_Project/swap.cpp"
+}
+]

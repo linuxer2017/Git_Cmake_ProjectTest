@@ -8,7 +8,7 @@
             "name": "g++.exe - 生成和调试活动文件",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/my_mutil_swap.exe",
+            "program": "${workspaceFolder}/build/my_cmake_swap.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
